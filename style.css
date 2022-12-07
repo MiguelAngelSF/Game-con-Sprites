@@ -1,0 +1,28 @@
+#canvas1 {
+    border: 5px solid black;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 400px;
+}
+
+#left {
+    width: 150px;
+    height: 150px;
+}
+
+#right {
+    width: 150px;
+    height: 150px;
+}
+
+.container {
+    margin-top: 400px;
+    margin-left: 520px;
+}
+
+.container h3 {
+    margin: auto;
+}
